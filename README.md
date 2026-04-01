@@ -1,67 +1,62 @@
-# DataScience_Internship_DevelopersHub
 
-DevelopersHub Data Science Internship Tasks
-I am Ahmad Ammar as a Data Science Intern at DevelopersHub Corporation. This repository contains the three main tasks I completed during my internship. In these projects, I worked on data cleaning, visualization, and building machine learning models.
 
-###📊 Task 1: Exploring and Visualizing the Iris Dataset
-Objective:
-The goal of this first task was to learn how to handle a dataset, check its structure, and create basic charts to understand the data.
+##**DevelopersHub Corporation - Data Science & Analytics Internship**
 
-My Approach:
-Loaded the Iris Dataset using the Pandas library.
+Hi! I am Ahmad Ammar, a Data Science Intern at DevelopersHub. This repository is a dedicated space where I have documented all the tasks completed during my internship. My work focus was on data cleaning, exploratory analysis, and building machine learning models using Python.
 
-Used .shape, .columns, and .head() to see how many rows and columns are in the data.
+🛠️ Tech Stack
+I used the following tools and libraries to perform data analysis and build models:
 
-Created Scatter plots to see how different flower features relate to each other.
+Tool						Purpose
+......						........
+Python						Primary programming language
+Pandas						Data manipulation (handling .xlsx and .csv files)
+Seaborn						Used to load the Iris dataset and for statistical plots
+Matplotlib					Creating customized charts and figures
+Scikit-Learn					Building and evaluating Machine Learning models
+Jupyter Notebook				Interactive environment for coding and documentation
 
-Used Histograms for data distribution and Box plots to find any outliers.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Results and Insights:
-I found that the 'Setosa' species is very different from others because of its smaller petal size.
 
-Visualization helped me realize that certain features are highly correlated, making them useful for classification.
+📂 Internship Tasks Overview
 
-💳 Task 2: Credit Risk Prediction
-Objective:
-In this task, I built a model to predict if a person is likely to default (not pay back) a loan based on their profile.
 
-My Approach:
-Data Cleaning: I handled missing values in the dataset so the model could work properly.
+🌸 Task 1: Exploring and Visualizing the Iris Dataset
+Objective: To analyze the characteristics of different iris flower species.
 
-EDA: Visualized important features like Loan Amount, Education, and Income to see their impact on loan approval.
+My Approach: I loaded the dataset directly using the Seaborn library (sns.load_dataset('iris')). I used .shape and .describe() to understand the data and created Scatter Plots to visualize the relationship between sepal and petal sizes.
 
-Modeling: Trained a Logistic Regression model for binary classification.
+Results & Insights: I found that the 'Setosa' species is the most distinct and can be easily classified based on its smaller petal measurements compared to  others.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+💳 Task 2: Personal Loan Purchase Prediction
 
-Evaluation: Used an Accuracy score and a Confusion Matrix to check how many predictions were correct.
 
-Results and Insights:
-I learned that Income is the biggest factor; people with stable and high incomes are less likely to default.
+Objective: To predict if a customer will accept a personal loan offer based on their financial profile.
 
-Scaling the data was important to remove warnings and make the model train faster.
+My Approach: I worked with an Excel (.xlsx) file for this task. After cleaning the data and handling missing values, I visualized income distributions. I then used StandardScaler to normalize the data and trained a Logistic Regression model.
 
-🏦 Task 3: Customer Churn Prediction (Bank)
-Objective:
-The goal was to identify which bank customers are likely to leave (churn) so the bank can take steps to retain them.
+Results & Insights: The model showed that Annual Income is the strongest predictor. Higher-income individuals are significantly more likely to accept loan offers. Scaling the data helped resolve the convergence warnings I initially faced.
 
-My Approach:
-Data Prep: Cleaned the 'Churn Modelling' dataset and dropped useless columns like RowNumber and Surname.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+🏦 Task 3: Customer Churn Prediction (Bank Customers)
 
-Encoding: Since the model doesn't understand text, I used Label Encoding to convert 'Geography' and 'Gender' into numbers.
 
-Training: Built a classification model to predict churn.
+Objective: To identify bank customers who are likely to close their accounts (Churn).
 
-Feature Importance: I analyzed which features (like Age or Balance) influenced the results the most.
+My Approach: I used the Churn_Modelling.csv dataset. I prepared the data by dropping unnecessary columns like Surname and ID. I used Label Encoding for Geography and Gender features. Finally, I analyzed Feature Importance to see what factors drive churn.
 
-Results and Insights:
-My model achieved an accuracy of 81%.
+Results & Insights: My model achieved an accuracy of 81%. Insights revealed that Age and IsActiveMember status are critical factors; the bank should focus on engaging older and less active members to reduce churn.
 
-Age is a very important factor; older customers seem more likely to leave the bank.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+👤 Contact:-
 
-Being an Active Member significantly reduces the chances of a customer leaving.
 
-🛠️ Tools & Skills
-Language: Python
+Name: Ahmad Ammar
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Role: Data Science Intern
 
-Skills: Data Cleaning, EDA, Categorical Encoding, Supervised Learning, Model Evaluation.
+Organization: DevelopersHub Corporation
+
+
+

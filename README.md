@@ -1,7 +1,7 @@
 
 # DevelopersHub Corporation - Data Science & Analytics Internship
 
- I am **Ahmad Ammar**, a Data Science Intern at DevelopersHub. This repository is a professional documentation of the tasks I completed during my internship. My work involved data cleaning, visualization, and building predictive models using Python.
+ I am **Ahmad Ammar**, a Data Science Intern at DevelopersHub. This repository is a documentation of the tasks I completed during my internship. My work involved data cleaning, visualization, and building predictive models using Python.
 
 ---
 

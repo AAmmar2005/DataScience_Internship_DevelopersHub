@@ -38,9 +38,7 @@ I utilized industry-standard tools to transform raw data into actionable busines
 
 ---
 <div align="center">
-  <hr width="50%">
-  <h3>🚀 PHASE 2: Advanced Analytics & Strategic Insights</h3>
-  <hr width="50%">
+ 
 </div>
 
 ## 📍 Project Deep Dive

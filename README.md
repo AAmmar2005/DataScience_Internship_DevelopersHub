@@ -36,24 +36,6 @@ I utilized industry-standard tools to transform raw data into actionable busines
 ---
 ---
 
-# 📍 PHASE 1: Core Machine Learning & EDA
-*In this phase, I focused on foundational data cleaning, exploratory analysis, and classification models.*
-
-### 🌸 Task 1: Iris Flower Species Classification
-* **Objective:** Understand species distribution through visual clustering.
-* **Methodology:** Performed EDA on the Seaborn Iris dataset using Scatter and Box plots.
-* **Key Insight:** 'Setosa' is statistically distinct due to its unique petal dimensions, making it 100% separable from other species.
-
-### 💳 Task 2: Personal Loan Purchase Prediction
-* **Objective:** Predict customer acceptance of personal loan offers.
-* **Methodology:** Processed `.xlsx` data, handled convergence issues using `StandardScaler`, and trained a **Logistic Regression** model.
-* **Key Insight:** Annual Income emerged as the highest predictor for loan conversion.
-
-### 🏦 Task 3: Bank Customer Churn Analysis
-* **Objective:** Identify "At-Risk" customers likely to leave the bank.
-* **Methodology:** Used **Label Encoding** for categorical variables and analyzed feature importance with an **81% accuracy** model.
-* **Key Insight:** Customer age and activity levels are critical indicators of retention.
-
 ---
 <div align="center">
   <hr width="50%">
@@ -61,21 +43,17 @@ I utilized industry-standard tools to transform raw data into actionable busines
   <hr width="50%">
 </div>
 
-### 🎯 Task 4: Term Deposit Subscription Prediction
-* **Objective:** Optimize bank marketing by predicting which clients will subscribe to long-term deposits.
-* **Methodology:** 
-    * Built a robust pipeline using **Random Forest Classifier**.
-    * Implemented **Feature Scaling** and **Stratified Splitting** for balanced results.
-    * Evaluated performance using **F1-Score** and **ROC-AUC** curves.
-* **Key Insight:** Call duration and previous campaign success are the strongest drivers for new subscriptions.
+## 📍 Project Deep Dive
 
-### 📊 Task 5: Global Sales & Profit Business Dashboard
-* **Objective:** Create a 360-degree visual summary for retail performance management.
-* **Methodology:** 
-    * Synthesized a 5,000-record dataset simulating "Global Superstore" sales.
-    * Developed a **9-chart Interactive-style Dashboard** covering monthly trends, regional share, and category profit.
-* **Key Insight:** Identified that discounts over 15% significantly erode net margins, recommending a "Value-based Pricing" strategy for the Technology segment.
+### **Phase 1 Highlights**
+*   **Task 1 (Simple Dataset):** Focused on reading, summarizing, and visualizing the Iris dataset to understand feature distributions.
+*   **Task 2 (Credit Risk):** Built a model to predict loan default probability, helping in risk assessment for financial lending.
+*   **Task 3 (Customer Churn):** Identified behavioral patterns of bank customers likely to exit, achieving high classification accuracy.
 
+### **Phase 2 Highlights**
+*   **Task 1 (Term Deposit):** Optimized bank marketing campaigns by predicting subscription likelihood using Random Forest.
+*   **Task 2 (Segmentation):** Applied **K-Means Clustering** to segment customers based on spending habits, enabling targeted marketing strategies.
+*   **Task 5 (Streamlit Dashboard):** Developed a dynamic dashboard to analyze sales, profit, and performance across different business segments in real-time.
 ---
 
 ## 💡 Key Takeaways & Professional Growth

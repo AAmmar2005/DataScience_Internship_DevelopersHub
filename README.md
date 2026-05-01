@@ -10,11 +10,11 @@ I utilized industry-standard tools to transform raw data into actionable busines
 
 | Category | Tools & Libraries |
 | :--- | :--- |
-| **Language** | Python 3.x |
+| **Language** | Python 3. |
 | **Data Manipulation** | Pandas, NumPy |
 | **Visualization** | Matplotlib, Seaborn |
 | **Machine Learning** | Scikit-Learn (Logistic Regression, Random Forest) |
-| **Deployment/IDE** | Jupyter Notebook, Google Colab |
+| **Deployment/IDE** | Jupyter Notebook, VsCode|
 
 ---
 

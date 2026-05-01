@@ -72,8 +72,8 @@ I utilized industry-standard tools to transform raw data into actionable busines
 * **Name:** Ahmad Ammar  
 * **Role:** Data Science Intern  
 * **Organization:** DevelopersHub Corporation  
-* **LinkedIn:** [Insert Your LinkedIn Link Here]
+* **LinkedIn:** https://www.linkedin.com/in/ahmad-ammar-01661a355/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWJpYWUpJT7uX9JHuzdS%2Bow%3D%3D
 
 ---
-*Generated with ❤️ by Ahmad Ammar - 2024*
+*Generated with 🐱‍🏍 by Ahmad Ammar - 2026*
 

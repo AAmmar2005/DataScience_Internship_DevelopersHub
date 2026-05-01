@@ -16,6 +16,24 @@ I utilized industry-standard tools to transform raw data into actionable busines
 | **Machine Learning** | Scikit-Learn (Logistic Regression, Random Forest) |
 | **Deployment/IDE** | Jupyter Notebook, VsCode|
 
+
+## 📂 Internship Progress Overview
+
+### **Phase 1: Foundational Tasks**
+| Task | Topic | Type | Status |
+| :--- | :--- | :--- | :--- |
+| **Task 1** | Iris Dataset Analysis | Exploratory Data Analysis | ✅ Complete |
+| **Task 2** | Credit Risk Prediction | Binary Classification | ✅ Complete |
+| **Task 3** | Customer Churn Prediction | Predictive Modeling | ✅ Complete |
+
+### **Phase 2: Advanced Tasks**
+| Task | Topic | Type | Status |
+| :--- | :--- | :--- | :--- |
+| **Task 1** | Term Deposit Prediction | Classification + Optimization | ✅ Complete |
+| **Task 2** | Customer Segmentation | Unsupervised Learning (K-Means) | ✅ Complete |
+| **Task 5** | Interactive Business Dashboard | Streamlit / BI Dashboard | ✅ Complete |
+
+---
 ---
 
 # 📍 PHASE 1: Core Machine Learning & EDA
